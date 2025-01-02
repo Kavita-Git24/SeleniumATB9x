@@ -14,7 +14,7 @@ import java.util.List;
 public class TestHealthCare {
     @Description("Verify that current url")
     @Test
-    public void test_negative_vwo_login() throws Exception{
+    public void test_url() throws Exception{
         EdgeOptions edgeOptions = new EdgeOptions();
         edgeOptions.addArguments("--start-maximized");
 
