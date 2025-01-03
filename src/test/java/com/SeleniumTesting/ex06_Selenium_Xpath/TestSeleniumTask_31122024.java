@@ -1,4 +1,4 @@
-package com.SeleniumTesting.Selenium_Xpath;
+package com.SeleniumTesting.ex06_Selenium_Xpath;
 
 import io.qameta.allure.Description;
 import org.openqa.selenium.By;
