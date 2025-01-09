@@ -1,0 +1,1 @@
+{"uuid":"abb1fcb5-7a14-4cc7-8252-6227b00ac035","name":"SeleniumATB9x","children":["4917d3c7-349c-45fa-9cf6-8c7cb15be53b"],"befores":[{"name":"openBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1736343590331,"stop":1736343594035}],"afters":[],"start":1736343590316,"stop":1736343640691}
