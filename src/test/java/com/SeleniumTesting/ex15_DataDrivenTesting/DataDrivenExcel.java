@@ -1,8 +1,6 @@
-package com.SeleniumTesting.ex_15_DataDrivenTesting;
+package com.SeleniumTesting.ex15_DataDrivenTesting;
 
 import org.testng.annotations.Test;
-
-import java.util.logging.SocketHandler;
 
 public class DataDrivenExcel {
     @Test(dataProvider = "getExcelData",dataProviderClass = UtilExcel.class)

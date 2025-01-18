@@ -1,4 +1,4 @@
-package com.SeleniumTesting.ex_15_DataDrivenTesting;
+package com.SeleniumTesting.ex15_DataDrivenTesting;
 
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
